@@ -1,12 +1,12 @@
 {
-  "name": "2018 ROBLOX Visor",
+  "name": "discord-ban-bot",
   "version": "1.0.0",
-  "description": "Kinda aura isn't it?",
+  "description": "A bot that bans users.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "14.14.1"
   }
 }
